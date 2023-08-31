@@ -147,7 +147,7 @@ img{
     animation-timeline: --img;
     animation-name: show;
 
-    animation-range: entry 45% cover 30%;
+    animation-range: entry 10% cover 40%;
     animation-fill-mode: both;
 }
 
